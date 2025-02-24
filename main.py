@@ -115,9 +115,9 @@ def interactive_menu(ship):
 # print("\nWe have changed the part's material:")
 # print(part_001)  
 
-racing_ship = RacingShip("SpeedBoat", 50)
-print("\nRacing Speed:")
-racing_ship.display_speed()
+# racing_ship = RacingShip("SpeedBoat", 50)
+# print("\nRacing Speed:")
+# racing_ship.display_speed()
 
 
 if __name__ == "__main__":
